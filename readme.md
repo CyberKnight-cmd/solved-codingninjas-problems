@@ -18,8 +18,7 @@ DSA/
 
 ```
 
-- **`solved-codingninjas-problems`**: A submodule containing my Coding Ninjas solved problems.  
-- Additional folders: Can include LeetCode, Codeforces, GFG, personal notes, or practice sheets.
+- **`solved-codingninjas-problems`**: A submodule containing my Coding Ninjas solved problems.
 
 ---
 ## 🔗 Submodule
