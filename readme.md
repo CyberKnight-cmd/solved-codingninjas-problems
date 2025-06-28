@@ -39,6 +39,8 @@ git submodule init
 git submodule update
 ```
 
+### [Open Template manager (for converting problem statements into markdown files)](https://chatgpt.com/share/685fc64c-ec54-8001-9ecc-50bd767015a8)
+
 ---
 
 ## 🛠️ How to use
