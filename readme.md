@@ -1,6 +1,6 @@
 
 # 📚 DSA Practice Repository
----
+
 
 This repository contains my solved problems, notes, and practice solutions for mastering **Data Structures & Algorithms (DSA)**. It includes organized solutions from various platforms, including **Coding Ninjas**, and is structured to help track my learning progress over time.
 
@@ -30,7 +30,7 @@ This repo uses **Git submodules** to manage platform-specific solutions independ
 To clone this repo **with submodules**, run:
 
 ```bash
-git clone --recurse-submodules <parent-repo-URL>
+git clone --recurse-submodules https://github.com/CyberKnight-cmd/dsa-overall.git
 ````
 
 If you’ve already cloned it without `--recurse-submodules`:
@@ -47,7 +47,7 @@ git submodule update
 1. **Clone the repo (with submodules)**
 
    ```bash
-   git clone --recurse-submodules <repo-url>
+   git clone --recurse-submodules https://github.com/CyberKnight-cmd/dsa-overall.git
    ```
 
 2. **Stay updated**
@@ -87,7 +87,5 @@ This is my personal learning repo — feel free to fork for your own study plan,
 ---
 
 **Happy coding and keep improving! 🚀**
-
-```
 
 ---
